@@ -1,5 +1,9 @@
 {
-  "name": "星际词典 (LexiFlow Space)",
+  "name": "三年级过关单词版",
   "description": "专为小学生设计的宇宙主题单词学习助手，支持拍照识词、智能听写和科学复习。",
-  "requestFramePermissions": ["camera"]
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "C7": [],
+  "aq": []
 }
